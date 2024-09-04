@@ -5,10 +5,10 @@ Dependências - Dentro da biblioteca
 
 Frameworks - Moldura dentro do projeto
 
-Gerenciador: nmp "Bibliotecário"
+Gerenciador: npm "Bibliotecário"
 
 Irá abrir o package.json
-Instal: nmp init -y
+Instal: npm init -y
 
 "main": (Arquivo principal)
 Vários comandos
