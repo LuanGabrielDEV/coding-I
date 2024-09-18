@@ -126,7 +126,7 @@ console.log(`O produto de valor ${valorProduto} com desconto fica ${valorComDesc
    let fracao1 = new Fraction(9, 5)
    var converf = (cel * fracao1) + 32
    console.log(`Essa é a temperatura em Fahrenheit é ${converf}`)
-   */
+   
 
    //10 Calculadora de IMC
    var peso = 89
