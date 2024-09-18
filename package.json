@@ -1,0 +1,17 @@
+{
+  "name": "coding-i",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fraction.js": "^4.3.7",
+    "node": "^22.8.0",
+    "prompt-sync": "^4.2.0"
+  },
+  "description": ""
+}
