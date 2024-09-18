@@ -151,4 +151,8 @@ console.log(`O produto de valor ${valorProduto} com desconto fica ${valorComDesc
 
    //git commit -m "Atividades em JavaScript"
 
+  // git push origin main
+
+  //git push -f origin main - Forcar o commit
+
    //git push
